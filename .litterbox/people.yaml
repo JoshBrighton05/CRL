@@ -23,5 +23,14 @@ people:
   roles:
   - Responsible Engineer
   active: true
+- id: yusif-algurair
+  name: Yusif Algurair
+  email: yusifalgurair@gmail.com
+  host_names:
+  - yusifyounis
+  access: admin
+  roles:
+  - Quality
+  active: true
 superuser_roles:
 - Chief
