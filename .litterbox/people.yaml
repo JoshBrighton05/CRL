@@ -14,5 +14,13 @@ people:
   access: owner
   roles: []
   active: true
+- id: oscar-mabon
+  name: Oscar Mabon
+  email: oscarmabon@gmail.com
+  host_names: []
+  access: admin
+  roles:
+  - Responsible Engineer
+  active: true
 superuser_roles:
 - Chief
