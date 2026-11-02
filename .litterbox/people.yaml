@@ -17,7 +17,8 @@ people:
 - id: oscar-mabon
   name: Oscar Mabon
   email: oscarmabon@gmail.com
-  host_names: []
+  host_names:
+  - oscarmabon
   access: admin
   roles:
   - Responsible Engineer
