@@ -1,0 +1,18 @@
+roles:
+- Responsible Engineer
+- Manufacturing
+- Quality
+- Analysis
+- Manager
+- Chief
+people:
+- id: joshbrighton05
+  name: Joshua Brighton
+  email: joshbrighton5@gmail.com
+  host_names:
+  - JoshBrighton05
+  access: owner
+  roles: []
+  active: true
+superuser_roles:
+- Chief
