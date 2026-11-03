@@ -3,8 +3,8 @@ org: CRL
 pn: '217-1'
 revision: A
 released_revision: ''
-name: Final Draig injector no green
-description: Final Draig injector no green.SLDPRT
+name: Final Draig injector
+description: Draig injector - post machining (final)
 status: in_work
 cots: false
 imported: true
@@ -24,3 +24,18 @@ history:
   at: '2026-11-02T23:48:49Z'
   revision: A
   by_id: oscar-mabon
+- event: edited
+  by: Oscar Mabon
+  at: '2026-11-03T00:15:59Z'
+  revision: A
+  by_id: oscar-mabon
+  changes:
+  - 'name: ''Final Draig injector no green'' -> ''Final Draig injector'''
+  - 'description: ''Final Draig injector no green.SLDPRT'' -> ''Draig injector - post machining (final)'''
+- event: checked_in
+  by: Oscar Mabon
+  at: '2026-11-03T00:16:42Z'
+  revision: A
+  by_id: oscar-mabon
+  files: []
+  comment: Update
