@@ -4,7 +4,7 @@ pn: '227-1'
 revision: A
 released_revision: ''
 name: Final Draig injector for print
-description: Final Draig injector for print.SLDPRT
+description: Draig injector with de-powdering supports and green material on interfaces
 status: in_work
 cots: false
 imported: true
@@ -24,3 +24,25 @@ history:
   at: '2026-11-03T00:02:19Z'
   revision: A
   by_id: oscar-mabon
+- event: checked_out
+  by: Oscar Mabon
+  at: '2026-11-03T00:12:38Z'
+  revision: A
+  by_id: oscar-mabon
+  files:
+  - cad/CRL-227-1_A.SLDPRT
+- event: edited
+  by: Oscar Mabon
+  at: '2026-11-03T00:16:32Z'
+  revision: A
+  by_id: oscar-mabon
+  changes:
+  - 'description: ''Final Draig injector for print.SLDPRT'' -> ''Draig injector with de-powdering supports
+    and green material on interfaces'''
+- event: checked_in
+  by: Oscar Mabon
+  at: '2026-11-03T00:16:42Z'
+  revision: A
+  by_id: oscar-mabon
+  files: []
+  comment: Update
