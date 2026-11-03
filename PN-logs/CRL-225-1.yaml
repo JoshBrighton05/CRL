@@ -4,7 +4,7 @@ pn: '225-1'
 revision: A
 released_revision: ''
 name: Draig Interface Plate
-description: Draig Interface Plate.SLDPRT
+description: Engine mount interface plate for Draig flange
 status: in_work
 cots: false
 imported: true
@@ -24,3 +24,24 @@ history:
   at: '2026-11-03T00:02:19Z'
   revision: A
   by_id: oscar-mabon
+- event: checked_out
+  by: Oscar Mabon
+  at: '2026-11-03T00:12:38Z'
+  revision: A
+  by_id: oscar-mabon
+  files:
+  - cad/CRL-225-1_A.SLDPRT
+- event: edited
+  by: Oscar Mabon
+  at: '2026-11-03T00:14:33Z'
+  revision: A
+  by_id: oscar-mabon
+  changes:
+  - 'description: ''Draig Interface Plate.SLDPRT'' -> ''Engine mount interface plate for Draig flange'''
+- event: checked_in
+  by: Oscar Mabon
+  at: '2026-11-03T00:16:42Z'
+  revision: A
+  by_id: oscar-mabon
+  files: []
+  comment: Update
