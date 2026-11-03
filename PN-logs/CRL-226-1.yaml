@@ -4,7 +4,7 @@ pn: '226-1'
 revision: A
 released_revision: ''
 name: Final Draig Chamber for print
-description: Final Draig Chamber for print.SLDPRT
+description: Draig chamber with printing supports and green material for machining
 status: in_work
 cots: false
 imported: true
@@ -24,3 +24,25 @@ history:
   at: '2026-11-03T00:02:19Z'
   revision: A
   by_id: oscar-mabon
+- event: checked_out
+  by: Oscar Mabon
+  at: '2026-11-03T00:10:55Z'
+  revision: A
+  by_id: oscar-mabon
+  files:
+  - cad/CRL-226-1_A.SLDPRT
+- event: edited
+  by: Oscar Mabon
+  at: '2026-11-03T00:11:46Z'
+  revision: A
+  by_id: oscar-mabon
+  changes:
+  - 'description: ''Final Draig Chamber for print.SLDPRT'' -> ''Draig chamber with printing supports and
+    green material for machining'''
+- event: checked_in
+  by: Oscar Mabon
+  at: '2026-11-03T00:11:54Z'
+  revision: A
+  by_id: oscar-mabon
+  files: []
+  comment: Update
