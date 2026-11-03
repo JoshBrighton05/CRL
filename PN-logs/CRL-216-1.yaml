@@ -4,7 +4,7 @@ pn: '216-1'
 revision: A
 released_revision: ''
 name: Final Draig Chamber
-description: Final Draig Chamber.SLDPRT
+description: Draig chamber file - post machining (final)
 status: in_work
 cots: false
 imported: true
@@ -64,5 +64,26 @@ history:
   at: '2026-11-03T00:04:24Z'
   revision: A
   by_id: joshbrighton05
+  files: []
+  comment: Update
+- event: checked_out
+  by: Oscar Mabon
+  at: '2026-11-03T00:12:33Z'
+  revision: A
+  by_id: oscar-mabon
+  files:
+  - cad/CRL-216-1_A.SLDPRT
+- event: edited
+  by: Oscar Mabon
+  at: '2026-11-03T00:13:32Z'
+  revision: A
+  by_id: oscar-mabon
+  changes:
+  - 'description: ''Final Draig Chamber.SLDPRT'' -> ''Draig chamber file - post machining (final)'''
+- event: checked_in
+  by: Oscar Mabon
+  at: '2026-11-03T00:16:41Z'
+  revision: A
+  by_id: oscar-mabon
   files: []
   comment: Update
