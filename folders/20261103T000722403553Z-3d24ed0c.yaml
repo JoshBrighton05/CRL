@@ -1,0 +1,8 @@
+at: '2026-11-03T00:07:22Z'
+by: Oscar Mabon
+scope: team
+ops:
+- op: take
+  folder: 4fb3cd56
+  items:
+  - CRL-226-1
