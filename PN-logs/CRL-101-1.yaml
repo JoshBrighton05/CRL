@@ -1,0 +1,20 @@
+format: 1
+org: CRL
+pn: '101-1'
+revision: A
+released_revision: ''
+name: Jittle
+description: Yusif trial new part
+status: in_work
+cots: false
+imported: false
+created_by: Yusif Algurair
+created_by_id: yusif-algurair
+created_at: '2026-11-03T00:06:16Z'
+approvals: []
+history:
+- event: created
+  by: Yusif Algurair
+  at: '2026-11-03T00:06:16Z'
+  revision: A
+  by_id: yusif-algurair
