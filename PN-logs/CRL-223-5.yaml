@@ -3,8 +3,8 @@ org: CRL
 pn: '223-5'
 revision: A
 released_revision: ''
-name: Draig assem
-description: Draig assem.SLDASM
+name: Draig assembly
+description: Draig assembly setup for testing
 status: in_work
 cots: false
 imported: true
@@ -95,3 +95,25 @@ history:
   quantities:
     A:
       CRL-225-1_A: 1
+- event: checked_out
+  by: Oscar Mabon
+  at: '2026-11-03T00:12:36Z'
+  revision: A
+  by_id: oscar-mabon
+  files:
+  - cad/CRL-223-5_A.SLDASM
+- event: edited
+  by: Oscar Mabon
+  at: '2026-11-03T00:14:04Z'
+  revision: A
+  by_id: oscar-mabon
+  changes:
+  - 'name: ''Draig assem'' -> ''Draig assembly'''
+  - 'description: ''Draig assem.SLDASM'' -> ''Draig assembly setup for testing'''
+- event: checked_in
+  by: Oscar Mabon
+  at: '2026-11-03T00:16:42Z'
+  revision: A
+  by_id: oscar-mabon
+  files: []
+  comment: Update
