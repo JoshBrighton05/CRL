@@ -38,3 +38,17 @@ history:
   by_id: joshbrighton05
   files: []
   comment: goon
+- event: checked_out
+  by: Joshua Brighton
+  at: '2026-11-03T00:00:27Z'
+  revision: A
+  by_id: joshbrighton05
+  files:
+  - cad/CRL-216-1_A.SLDPRT
+- event: checked_in
+  by: Joshua Brighton
+  at: '2026-11-03T00:00:47Z'
+  revision: A
+  by_id: joshbrighton05
+  files: []
+  comment: Yusif is fucking stupid
