@@ -6,6 +6,8 @@ roles:
 - Manager
 - Chief
 - Retard
+- Flight
+- Propulsion
 people:
 - id: joshbrighton05
   name: Joshua Brighton
