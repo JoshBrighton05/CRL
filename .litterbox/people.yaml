@@ -23,7 +23,7 @@ people:
   - oscarmabon
   access: admin
   roles:
-  - Responsible Engineer
+  - SnuttlePunts
   active: true
 - id: yusif-algurair
   name: Yusif Algurair
