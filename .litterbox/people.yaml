@@ -7,6 +7,7 @@ roles:
 - Chief
 - Retard
 - SnuttlePunts
+- Chief gooning inspector
 people:
 - id: joshbrighton05
   name: Joshua Brighton
@@ -34,5 +35,14 @@ people:
   roles:
   - Retard
   active: true
+- id: joel-cartwright
+  name: Joel Cartwright
+  email: cartwrightja5@cardiff.ac.uk
+  host_names:
+  - joelcartwright9
+  access: admin
+  roles: []
+  active: true
 superuser_roles:
 - Chief
+- Chief gooning inspector
