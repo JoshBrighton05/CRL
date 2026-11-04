@@ -41,7 +41,8 @@ people:
   host_names:
   - joelcartwright9
   access: admin
-  roles: []
+  roles:
+  - Chief gooning inspector
   active: true
 superuser_roles:
 - Chief
