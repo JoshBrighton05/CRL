@@ -18,3 +18,16 @@ history:
   at: '2026-11-04T16:13:55Z'
   revision: A
   by_id: ben-lidder
+- event: checked_out
+  by: Ben Lidder
+  at: '2026-11-04T16:14:02Z'
+  revision: A
+  by_id: ben-lidder
+  files: []
+- event: checked_in
+  by: Ben Lidder
+  at: '2026-11-04T16:17:15Z'
+  revision: A
+  by_id: ben-lidder
+  files: []
+  comment: Update
