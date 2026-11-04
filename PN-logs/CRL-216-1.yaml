@@ -101,3 +101,17 @@ history:
   by_id: joel-cartwright
   files: []
   comment: ooga booga
+- event: checked_out
+  by: Ben Lidder
+  at: '2026-11-04T13:57:51Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-216-1_A.SLDPRT
+- event: checked_in
+  by: Ben Lidder
+  at: '2026-11-04T13:58:30Z'
+  revision: A
+  by_id: ben-lidder
+  files: []
+  comment: Update
