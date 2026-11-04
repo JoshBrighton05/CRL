@@ -44,6 +44,15 @@ people:
   roles:
   - Chief gooning inspector
   active: true
+- id: ben-lidder
+  name: Ben Lidder
+  email: Benjaminlidder@gmail.com
+  host_names:
+  - BenLidder
+  access: member
+  roles:
+  - Responsible Engineer
+  active: true
 superuser_roles:
 - Chief
 - Chief gooning inspector
