@@ -87,3 +87,17 @@ history:
   by_id: oscar-mabon
   files: []
   comment: Update
+- event: checked_out
+  by: Joel Cartwright
+  at: '2026-11-04T13:43:03Z'
+  revision: A
+  by_id: joel-cartwright
+  files:
+  - cad/CRL-216-1_A.SLDPRT
+- event: checked_in
+  by: Joel Cartwright
+  at: '2026-11-04T13:53:27Z'
+  revision: A
+  by_id: joel-cartwright
+  files: []
+  comment: ooga booga
