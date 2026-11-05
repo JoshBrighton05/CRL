@@ -54,10 +54,10 @@ people:
   - Responsible Engineer
   active: true
 - id: patryktomaszjezke-cpu
-  name: patryktomaszjezke-cpu
-  email: patryktomaszjezke@gmail.com
+  name: patryktomaszjeszke-cpu
+  email: patryktomaszjeszke-cpu@gmail.com
   host_names:
-  - patryktomaszjezke-cpu
+  - patryktomaszjeszke-cpu
   access: member
   roles:
   - Responsible Engineer
