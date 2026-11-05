@@ -53,6 +53,15 @@ people:
   roles:
   - Responsible Engineer
   active: true
+- id: patryktomaszjezke-cpu
+  name: patryktomaszjezke-cpu
+  email: patryktomaszjezke@gmail.com
+  host_names:
+  - patryktomaszjezke-cpu
+  access: member
+  roles:
+  - Responsible Engineer
+  active: true
 superuser_roles:
 - Chief
 - Chief gooning inspector
