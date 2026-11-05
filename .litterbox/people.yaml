@@ -56,3 +56,5 @@ people:
 superuser_roles:
 - Chief
 - Chief gooning inspector
+folder_roles:
+- Responsible Engineer
