@@ -5,7 +5,7 @@ revision: A
 released_revision: ''
 name: CRL Tank Tube
 description: The tank tube
-status: in_work
+status: void
 cots: false
 imported: false
 created_by: Ben Lidder
@@ -31,3 +31,9 @@ history:
   by_id: ben-lidder
   files: []
   comment: Update
+- event: voided
+  by: Ben Lidder
+  at: '2026-11-05T12:30:32Z'
+  revision: A
+  by_id: ben-lidder
+  reason: no files in it
