@@ -1,0 +1,25 @@
+format: 1
+org: CRL
+pn: '240-1'
+revision: A
+released_revision: ''
+name: Piston Litterbox
+description: Piston Litterbox.SLDPRT
+status: in_work
+cots: false
+imported: true
+import_path: C:\Users\benja\OneDrive - Cardiff University\Year 3\Flight Project\CAD\Litterbox\Piston Litterbox.SLDPRT
+created_by: Ben Lidder
+created_by_id: ben-lidder
+created_at: '2026-11-05T12:27:08Z'
+approvals: []
+configurations:
+  A:
+    own: []
+    named: Piston Litterbox
+history:
+- event: created
+  by: Ben Lidder
+  at: '2026-11-05T12:27:08Z'
+  revision: A
+  by_id: ben-lidder
