@@ -16,7 +16,8 @@ people:
   host_names:
   - JoshBrighton05
   access: owner
-  roles: []
+  roles:
+  - Hostage
   active: true
 - id: oscar-mabon
   name: Oscar Mabon
