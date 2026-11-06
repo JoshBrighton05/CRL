@@ -23,3 +23,18 @@ history:
   at: '2026-11-05T12:27:08Z'
   revision: A
   by_id: ben-lidder
+- event: checked_out
+  by: Ben Lidder
+  at: '2026-11-06T18:24:04Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-240-1_A.SLDPRT
+- event: checked_in
+  by: Ben Lidder
+  at: '2026-11-06T18:34:52Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-240-1_A.SLDPRT
+  comment: Added third O-ring groove
