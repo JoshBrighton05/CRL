@@ -24,3 +24,18 @@ history:
   at: '2026-11-05T12:27:08Z'
   revision: A
   by_id: ben-lidder
+- event: checked_out
+  by: Ben Lidder
+  at: '2026-11-06T18:05:35Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-239-1_A.SLDPRT
+- event: checked_in
+  by: Ben Lidder
+  at: '2026-11-06T18:15:44Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-239-1_A.SLDPRT
+  comment: Added bolt holes
