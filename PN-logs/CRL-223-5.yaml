@@ -13,71 +13,15 @@ created_by: Oscar Mabon
 created_by_id: oscar-mabon
 created_at: '2026-11-03T00:02:19Z'
 approvals: []
+references_outdated:
+- A
 references:
   A:
   - CRL-225-1_A
-quantities:
-  A:
-    CRL-225-1_A: 1
-other_files:
-  A:
-  - file: c:\solidworks data\browser\as\bolts and screws\socket head screws\hexagon socket head cap screw_as.sldprt
-    toolbox: true
-  - file: c:\solidworks data\browser\bsi\bolts and screws\hexagon socket head screws\socket head cap screw_bsi
-      M8.SLDPRT
-    toolbox: true
-  - file: c:\solidworks data\browser\bsi\nuts\hex nuts\hex nut gradec_bsi M8.SLDPRT
-    toolbox: true
-  - file: c:\solidworks data\browser\bsi\washers\plain washers\plain washer form a_bsi M8.SLDPRT
-    toolbox: true
-  - file: C:\Users\oscar\Downloads\181951387-7-8240613\8240613.SLDASM
-    toolbox: false
-  - file: C:\Users\oscar\Downloads\SS-400-1-4RP-SwagelokCompany-3D-04-18-2026.SLDPRT
-    toolbox: false
-  - file: C:\Users\oscar\Downloads\SS-810-1-8RP-SwagelokCompany-3D-04-18-2026.SLDPRT
-    toolbox: false
-  - file: C:\Users\oscar\OneDrive - Cardiff University\Cardiff Rocket Labs\Bowser\Bowser CAD files\Airborne
-      Igniter.SLDASM
-    toolbox: false
-  - file: C:\Users\oscar\OneDrive - Cardiff University\Cardiff Rocket Labs\Bowser\Bowser CAD files\Protolaunch
-      Mounting Bed.SLDPRT
-    toolbox: false
-  - file: C:\Users\oscar\OneDrive - Cardiff University\Cardiff Rocket Labs\Bowser\Bowser CAD files\Swagelok
-      eigth inch Male to tube fitting.SLDPRT
-    toolbox: false
-  - file: C:\Users\oscar\OneDrive - Cardiff University\Cardiff Rocket Labs\Polaris\428669-HFCW-14-20-1-5-C.SLDPRT
-    toolbox: false
-  - file: C:\Users\oscar\OneDrive - Cardiff University\Cardiff Rocket Labs\Polaris\Engine Mount\base plate
-      engine mount.SLDPRT
-    toolbox: false
-  - file: C:\Users\oscar\OneDrive - Cardiff University\Cardiff Rocket Labs\Polaris\Engine Mount\engine
-      ount\engine mount front plate final.SLDPRT
-    toolbox: false
-  - file: C:\Users\oscar\OneDrive - Cardiff University\Cardiff Rocket Labs\Polaris\Engine Mount\engine
-      ount\engine mount New ribs left.SLDPRT
-    toolbox: false
-  - file: C:\Users\oscar\OneDrive - Cardiff University\Cardiff Rocket Labs\Polaris\Engine Mount\engine
-      ount\engine mount New ribs right.SLDPRT
-    toolbox: false
-  - file: C:\Users\oscar\OneDrive - Cardiff University\Cardiff Rocket Labs\R2S 26\CAD Files\Coil.SLDPRT
-    toolbox: false
-  - file: C:\Users\oscar\OneDrive - Cardiff University\Cardiff Rocket Labs\R2S 26\CAD Files\Final Draig
-      Chamber.SLDPRT
-    toolbox: false
-  - file: C:\Users\oscar\OneDrive - Cardiff University\Cardiff Rocket Labs\R2S 26\CAD Files\Final Draig
-      injector.SLDPRT
-    toolbox: false
-  - file: C:\Users\oscar\OneDrive - Cardiff University\Cardiff Rocket Labs\R2S 26\CAD Files\Hydro cap.SLDPRT
-    toolbox: false
 configurations:
   A:
-    own:
-    - name: Draig assem
-      id: 0
+    own: []
     named: Draig assem
-    uses:
-      CRL-225-1_A:
-      - Draig Interface Plate
 history:
 - event: created
   by: Oscar Mabon
@@ -117,3 +61,11 @@ history:
   by_id: oscar-mabon
   files: []
   comment: Update
+- event: checked_in
+  by: Yusif Algurair
+  at: '2026-11-06T16:26:34Z'
+  revision: A
+  by_id: yusif-algurair
+  files:
+  - cad/CRL-223-5_A.SLDASM
+  comment: no changes
