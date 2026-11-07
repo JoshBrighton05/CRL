@@ -1,0 +1,20 @@
+format: 1
+org: CRL
+pn: '103-1'
+revision: A
+released_revision: ''
+name: Fins and engine mounting
+description: ''
+status: in_work
+cots: false
+imported: false
+created_by: Ethan Hughes
+created_by_id: ethan-hughes
+created_at: '2026-11-07T22:38:16Z'
+approvals: []
+history:
+- event: created
+  by: Ethan Hughes
+  at: '2026-11-07T22:38:16Z'
+  revision: A
+  by_id: ethan-hughes
