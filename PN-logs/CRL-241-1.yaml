@@ -38,3 +38,18 @@ history:
   by_id: yusif-algurair
   files: []
   comment: Update
+- event: checked_out
+  by: Ben Lidder
+  at: '2026-11-07T14:56:16Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-241-1_A.SLDPRT
+- event: checked_in
+  by: Ben Lidder
+  at: '2026-11-07T15:05:08Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-241-1_A.SLDPRT
+  comment: Added bolt holes
