@@ -97,3 +97,17 @@ history:
   by_id: ethan-hughes
   files: []
   comment: Update
+- event: checked_out
+  by: Fraser Thompson
+  at: '2026-11-07T22:48:15Z'
+  revision: A
+  by_id: fraser-thompson
+  files:
+  - cad/CRL-241-1_A.SLDPRT
+- event: checked_in
+  by: Fraser Thompson
+  at: '2026-11-07T22:48:54Z'
+  revision: A
+  by_id: fraser-thompson
+  files: []
+  comment: Update
