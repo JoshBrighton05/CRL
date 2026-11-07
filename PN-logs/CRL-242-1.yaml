@@ -69,3 +69,17 @@ history:
   by_id: ben-lidder
   files: []
   comment: Name Changed
+- event: checked_out
+  by: Fraser Thompson
+  at: '2026-11-07T22:47:30Z'
+  revision: A
+  by_id: fraser-thompson
+  files:
+  - cad/CRL-242-1_A.SLDPRT
+- event: checked_in
+  by: Fraser Thompson
+  at: '2026-11-07T22:47:57Z'
+  revision: A
+  by_id: fraser-thompson
+  files: []
+  comment: Update
