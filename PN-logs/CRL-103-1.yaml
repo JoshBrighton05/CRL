@@ -4,7 +4,7 @@ pn: '103-1'
 revision: A
 released_revision: ''
 name: Fins and engine mounting
-description: ''
+description: Fins and engine mounting design
 status: in_work
 cots: false
 imported: false
@@ -18,3 +18,23 @@ history:
   at: '2026-11-07T22:38:16Z'
   revision: A
   by_id: ethan-hughes
+- event: checked_out
+  by: Ethan Hughes
+  at: '2026-11-07T22:38:22Z'
+  revision: A
+  by_id: ethan-hughes
+  files: []
+- event: edited
+  by: Ethan Hughes
+  at: '2026-11-07T22:40:40Z'
+  revision: A
+  by_id: ethan-hughes
+  changes:
+  - 'description: '''' -> ''Fins and engine mounting design'''
+- event: checked_in
+  by: Ethan Hughes
+  at: '2026-11-07T22:40:55Z'
+  revision: A
+  by_id: ethan-hughes
+  files: []
+  comment: Update
