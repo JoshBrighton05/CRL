@@ -83,3 +83,17 @@ history:
   by_id: ben-lidder
   files: []
   comment: Name Changed
+- event: checked_out
+  by: Ethan Hughes
+  at: '2026-11-07T22:35:48Z'
+  revision: A
+  by_id: ethan-hughes
+  files:
+  - cad/CRL-241-1_A.SLDPRT
+- event: checked_in
+  by: Ethan Hughes
+  at: '2026-11-07T22:36:46Z'
+  revision: A
+  by_id: ethan-hughes
+  files: []
+  comment: Update
