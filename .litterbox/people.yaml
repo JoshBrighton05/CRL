@@ -73,6 +73,15 @@ people:
   roles:
   - Responsible Engineer
   active: true
+- id: fraser-thompson
+  name: Fraser Thompson
+  email: ThompsonFE@cardiff.ac.uk
+  host_names:
+  - hlafsuckedpolo
+  access: member
+  roles:
+  - Responsible Engineer
+  active: true
 superuser_roles:
 - Chief
 - Chief gooning inspector
