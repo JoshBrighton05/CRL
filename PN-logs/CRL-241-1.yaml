@@ -24,3 +24,17 @@ history:
   at: '2026-11-05T12:27:08Z'
   revision: A
   by_id: ben-lidder
+- event: checked_out
+  by: Yusif Algurair
+  at: '2026-11-05T20:05:09Z'
+  revision: A
+  by_id: yusif-algurair
+  files:
+  - cad/CRL-241-1_A.SLDPRT
+- event: checked_in
+  by: Yusif Algurair
+  at: '2026-11-07T14:38:00Z'
+  revision: A
+  by_id: yusif-algurair
+  files: []
+  comment: Update
