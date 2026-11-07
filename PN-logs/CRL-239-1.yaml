@@ -3,7 +3,7 @@ org: CRL
 pn: '239-1'
 revision: A
 released_revision: ''
-name: Bottom Bulkhead Litterbox
+name: Bottom Bulkhead
 description: Bottom Bulkhead Litterbox.SLDPRT
 status: in_work
 cots: false
@@ -18,6 +18,8 @@ configurations:
   A:
     own: []
     named: Bottom Bulkhead Litterbox
+materials:
+  A: 6082-T6 Piston and Bulkheads
 history:
 - event: created
   by: Ben Lidder
@@ -39,3 +41,31 @@ history:
   files:
   - cad/CRL-239-1_A.SLDPRT
   comment: Added bolt holes
+- event: checked_out
+  by: Ben Lidder
+  at: '2026-11-07T15:06:36Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-239-1_A.SLDPRT
+- event: material_updated
+  by: Ben Lidder
+  at: '2026-11-07T15:07:20Z'
+  revision: A
+  by_id: ben-lidder
+  materials:
+    A: 6082-T6 Piston and Bulkheads
+- event: edited
+  by: Ben Lidder
+  at: '2026-11-07T15:07:40Z'
+  revision: A
+  by_id: ben-lidder
+  changes:
+  - 'name: ''Bottom Bulkhead Litterbox'' -> ''Bottom Bulkhead'''
+- event: checked_in
+  by: Ben Lidder
+  at: '2026-11-07T15:08:51Z'
+  revision: A
+  by_id: ben-lidder
+  files: []
+  comment: Name Changed
