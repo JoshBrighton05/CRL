@@ -125,3 +125,17 @@ history:
   - cad/CRL-241-1_A.SLDPRT
   comment: changed tank height and static vent height due to bulkheads becoming shorter. Changed the 1
     row of M12's to 2 rows of M8 bolt holes
+- event: checked_out
+  by: Joshua Brighton
+  at: '2026-11-08T17:30:08Z'
+  revision: A
+  by_id: joshbrighton05
+  files:
+  - cad/CRL-241-1_A.SLDPRT
+- event: checked_in
+  by: Joshua Brighton
+  at: '2026-11-08T17:31:28Z'
+  revision: A
+  by_id: joshbrighton05
+  files: []
+  comment: Update
