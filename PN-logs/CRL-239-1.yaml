@@ -83,3 +83,17 @@ history:
   - cad/CRL-239-1_A.SLDPRT
   comment: Lowered the height of the bulkhead to remove dead space and changes the 1 row of M12 to 2 rows
     of M8 bolt holes
+- event: checked_out
+  by: Ben Lidder
+  at: '2026-11-08T19:04:51Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-239-1_A.SLDPRT
+- event: checked_in
+  by: Ben Lidder
+  at: '2026-11-08T19:09:26Z'
+  revision: A
+  by_id: ben-lidder
+  files: []
+  comment: Update
