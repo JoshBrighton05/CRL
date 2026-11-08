@@ -18,8 +18,6 @@ configurations:
   A:
     own: []
     named: Bottom Bulkhead Litterbox
-materials:
-  A: 6082-T6 Piston and Bulkheads
 history:
 - event: created
   by: Ben Lidder
@@ -69,3 +67,19 @@ history:
   by_id: ben-lidder
   files: []
   comment: Name Changed
+- event: checked_out
+  by: Ben Lidder
+  at: '2026-11-08T14:11:51Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-239-1_A.SLDPRT
+- event: checked_in
+  by: Ben Lidder
+  at: '2026-11-08T14:24:16Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-239-1_A.SLDPRT
+  comment: Lowered the height of the bulkhead to remove dead space and changes the 1 row of M12 to 2 rows
+    of M8 bolt holes
