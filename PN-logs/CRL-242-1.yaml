@@ -18,8 +18,6 @@ configurations:
   A:
     own: []
     named: Top Bulkhead Litterbox
-materials:
-  A: 6082-T6 Piston and Bulkheads
 history:
 - event: created
   by: Ben Lidder
@@ -83,3 +81,18 @@ history:
   by_id: fraser-thompson
   files: []
   comment: Update
+- event: checked_out
+  by: Ben Lidder
+  at: '2026-11-08T14:31:04Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-242-1_A.SLDPRT
+- event: checked_in
+  by: Ben Lidder
+  at: '2026-11-08T14:40:55Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-242-1_A.SLDPRT
+  comment: Made bulkheads thinner and cahnged row of M12 for 2 rows of m8
