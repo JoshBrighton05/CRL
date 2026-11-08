@@ -96,3 +96,17 @@ history:
   files:
   - cad/CRL-242-1_A.SLDPRT
   comment: Made bulkheads thinner and cahnged row of M12 for 2 rows of m8
+- event: checked_out
+  by: Ben Lidder
+  at: '2026-11-08T19:04:51Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-242-1_A.SLDPRT
+- event: checked_in
+  by: Ben Lidder
+  at: '2026-11-08T19:09:26Z'
+  revision: A
+  by_id: ben-lidder
+  files: []
+  comment: Update
