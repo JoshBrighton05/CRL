@@ -139,3 +139,24 @@ history:
   by_id: joshbrighton05
   files: []
   comment: Update
+- event: checked_out
+  by: Ben Lidder
+  at: '2026-11-08T19:04:28Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-241-1_A.SLDPRT
+- event: checked_out
+  by: Ben Lidder
+  at: '2026-11-08T19:04:51Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-241-1_A.SLDPRT
+- event: checked_in
+  by: Ben Lidder
+  at: '2026-11-08T19:09:26Z'
+  revision: A
+  by_id: ben-lidder
+  files: []
+  comment: Update
