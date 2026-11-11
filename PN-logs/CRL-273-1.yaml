@@ -1,0 +1,25 @@
+format: 1
+org: CRL
+pn: '273-1'
+revision: A
+released_revision: ''
+name: CRL R2S PRELIM
+description: CRL_R2S_PRELIM.SLDPRT
+status: in_work
+cots: false
+imported: true
+import_path: C:\Users\patry\OneDrive\CRL_R2S_PRELIM\CRL_R2S_PRELIM.SLDPRT
+created_by: patryktomaszjeszke-cpu
+created_by_id: patryktomaszjezke-cpu
+created_at: '2026-11-11T13:10:40Z'
+approvals: []
+configurations:
+  A:
+    own: []
+    named: CRL R2S PRELIM
+history:
+- event: created
+  by: patryktomaszjeszke-cpu
+  at: '2026-11-11T13:10:40Z'
+  revision: A
+  by_id: patryktomaszjezke-cpu
