@@ -15,8 +15,12 @@ created_at: '2026-11-05T12:27:08Z'
 approvals: []
 configurations:
   A:
-    own: []
+    own:
+    - name: Piston Litterbox
+      id: 0
     named: Piston Litterbox
+materials:
+  A: 6082-T6 Piston and Bulkheads
 history:
 - event: created
   by: Ben Lidder
@@ -89,3 +93,19 @@ history:
   by_id: ben-lidder
   files: []
   comment: Update
+- event: checked_out
+  by: Yusif Algurair
+  at: '2026-11-13T19:55:46Z'
+  revision: A
+  by_id: yusif-algurair
+  files:
+  - cad/CRL-240-1_A.SLDPRT
+- event: checked_in
+  by: Yusif Algurair
+  at: '2026-11-13T21:05:00Z'
+  revision: A
+  by_id: yusif-algurair
+  files:
+  - cad/CRL-240-1_A.SLDPRT
+  comment: Update
+  material: 6082-T6 Piston and Bulkheads
