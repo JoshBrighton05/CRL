@@ -16,8 +16,12 @@ created_at: '2026-11-05T12:27:08Z'
 approvals: []
 configurations:
   A:
-    own: []
-    named: Bottom Bulkhead Litterbox
+    own:
+    - name: Bottom Bulkhead
+      id: 0
+    named: Bottom Bulkhead
+materials:
+  A: 6082-T6 Piston and Bulkheads
 history:
 - event: created
   by: Ben Lidder
@@ -97,3 +101,19 @@ history:
   by_id: ben-lidder
   files: []
   comment: Update
+- event: checked_out
+  by: Yusif Algurair
+  at: '2026-11-13T19:55:46Z'
+  revision: A
+  by_id: yusif-algurair
+  files:
+  - cad/CRL-239-1_A.SLDPRT
+- event: checked_in
+  by: Yusif Algurair
+  at: '2026-11-13T21:04:59Z'
+  revision: A
+  by_id: yusif-algurair
+  files:
+  - cad/CRL-239-1_A.SLDPRT
+  comment: Update
+  material: 6082-T6 Piston and Bulkheads
