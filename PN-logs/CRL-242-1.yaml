@@ -16,8 +16,12 @@ created_at: '2026-11-05T12:27:08Z'
 approvals: []
 configurations:
   A:
-    own: []
-    named: Top Bulkhead Litterbox
+    own:
+    - name: Top Bulkhead
+      id: 0
+    named: Top Bulkhead
+materials:
+  A: 6082-T6 Piston and Bulkheads
 history:
 - event: created
   by: Ben Lidder
@@ -110,3 +114,19 @@ history:
   by_id: ben-lidder
   files: []
   comment: Update
+- event: checked_out
+  by: Yusif Algurair
+  at: '2026-11-13T19:55:46Z'
+  revision: A
+  by_id: yusif-algurair
+  files:
+  - cad/CRL-242-1_A.SLDPRT
+- event: checked_in
+  by: Yusif Algurair
+  at: '2026-11-13T21:05:02Z'
+  revision: A
+  by_id: yusif-algurair
+  files:
+  - cad/CRL-242-1_A.SLDPRT
+  comment: Update
+  material: 6082-T6 Piston and Bulkheads
