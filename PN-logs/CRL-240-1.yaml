@@ -3,7 +3,7 @@ org: CRL
 pn: '240-1'
 revision: A
 released_revision: ''
-name: Piston Litterbox
+name: Piston
 description: Piston Litterbox.SLDPRT
 status: in_work
 cots: false
@@ -15,12 +15,8 @@ created_at: '2026-11-05T12:27:08Z'
 approvals: []
 configurations:
   A:
-    own:
-    - name: Piston Litterbox
-      id: 0
+    own: []
     named: Piston Litterbox
-materials:
-  A: 6082-T6 Piston and Bulkheads
 history:
 - event: created
   by: Ben Lidder
@@ -109,3 +105,25 @@ history:
   - cad/CRL-240-1_A.SLDPRT
   comment: Update
   material: 6082-T6 Piston and Bulkheads
+- event: checked_out
+  by: Ben Lidder
+  at: '2026-11-13T21:28:00Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-240-1_A.SLDPRT
+- event: edited
+  by: Ben Lidder
+  at: '2026-11-14T00:06:29Z'
+  revision: A
+  by_id: ben-lidder
+  changes:
+  - 'name: ''Piston Litterbox'' -> ''Piston'''
+- event: checked_in
+  by: Ben Lidder
+  at: '2026-11-14T00:06:51Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-240-1_A.SLDPRT
+  comment: Update
