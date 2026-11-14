@@ -16,12 +16,8 @@ created_at: '2026-11-05T12:27:08Z'
 approvals: []
 configurations:
   A:
-    own:
-    - name: Top Bulkhead
-      id: 0
+    own: []
     named: Top Bulkhead
-materials:
-  A: 6082-T6 Piston and Bulkheads
 history:
 - event: created
   by: Ben Lidder
@@ -130,3 +126,18 @@ history:
   - cad/CRL-242-1_A.SLDPRT
   comment: Update
   material: 6082-T6 Piston and Bulkheads
+- event: checked_out
+  by: Ben Lidder
+  at: '2026-11-13T21:28:00Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-242-1_A.SLDPRT
+- event: checked_in
+  by: Ben Lidder
+  at: '2026-11-14T00:08:19Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-242-1_A.SLDPRT
+  comment: Update
