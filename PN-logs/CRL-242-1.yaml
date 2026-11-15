@@ -141,3 +141,18 @@ history:
   files:
   - cad/CRL-242-1_A.SLDPRT
   comment: Update
+- event: checked_out
+  by: Ben Lidder
+  at: '2026-11-15T14:13:11Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-242-1_A.SLDPRT
+- event: checked_in
+  by: Ben Lidder
+  at: '2026-11-15T14:17:07Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-242-1_A.SLDPRT
+  comment: Changed drill and thread depth to allow for washer if needed, still works w/o washers
