@@ -206,3 +206,17 @@ history:
   files:
   - cad/CRL-241-1_A.SLDPRT
   comment: Changed tank height due to bulkhead changing, changed static vent hole position accordingly
+- event: checked_out
+  by: Ben Lidder
+  at: '2026-11-15T14:18:17Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-241-1_A.SLDPRT
+- event: checked_in
+  by: Ben Lidder
+  at: '2026-11-15T14:19:31Z'
+  revision: A
+  by_id: ben-lidder
+  files: []
+  comment: Update
