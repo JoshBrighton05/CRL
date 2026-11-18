@@ -143,3 +143,18 @@ history:
   files:
   - cad/CRL-239-1_A.SLDPRT
   comment: Changed drill and thread depth to allow for washer if needed, still works w/o washers
+- event: checked_out
+  by: Ben Lidder
+  at: '2026-11-18T20:07:32Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-239-1_A.SLDPRT
+- event: checked_in
+  by: Ben Lidder
+  at: '2026-11-18T20:39:25Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-239-1_A.SLDPRT
+  comment: Added Main ox, PT and ox fill fittings
