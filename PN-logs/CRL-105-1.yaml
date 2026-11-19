@@ -18,3 +18,17 @@ history:
   at: '2026-11-19T04:01:49Z'
   revision: A
   by_id: ethan-hughes
+- event: checked_out
+  by: Ethan Hughes
+  at: '2026-11-19T04:02:01Z'
+  revision: A
+  by_id: ethan-hughes
+  files: []
+- event: checked_in
+  by: Ethan Hughes
+  at: '2026-11-19T04:09:53Z'
+  revision: A
+  by_id: ethan-hughes
+  files:
+  - cad/CRL-105-1_A.SLDPRT
+  comment: Update
