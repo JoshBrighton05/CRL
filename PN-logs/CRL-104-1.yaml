@@ -1,0 +1,20 @@
+format: 1
+org: CRL
+pn: '104-1'
+revision: A
+released_revision: ''
+name: Wing
+description: ''
+status: in_work
+cots: false
+imported: false
+created_by: Ethan Hughes
+created_by_id: ethan-hughes
+created_at: '2026-11-19T03:07:27Z'
+approvals: []
+history:
+- event: created
+  by: Ethan Hughes
+  at: '2026-11-19T03:07:27Z'
+  revision: A
+  by_id: ethan-hughes
