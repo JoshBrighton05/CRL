@@ -12,9 +12,25 @@ created_by: Ben Lidder
 created_by_id: ben-lidder
 created_at: '2026-11-19T17:06:10Z'
 approvals: []
+references_outdated:
+- A
 history:
 - event: created
   by: Ben Lidder
   at: '2026-11-19T17:06:10Z'
   revision: A
   by_id: ben-lidder
+- event: checked_out
+  by: Ben Lidder
+  at: '2026-11-19T17:06:25Z'
+  revision: A
+  by_id: ben-lidder
+  files: []
+- event: checked_in
+  by: Ben Lidder
+  at: '2026-11-19T18:34:42Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-106-5_A.SLDASM
+  comment: Update
