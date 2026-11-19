@@ -158,3 +158,17 @@ history:
   files:
   - cad/CRL-239-1_A.SLDPRT
   comment: Added Main ox, PT and ox fill fittings
+- event: checked_out
+  by: Ben Lidder
+  at: '2026-11-19T16:10:30Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-239-1_A.SLDPRT
+- event: checked_in
+  by: Ben Lidder
+  at: '2026-11-19T16:41:55Z'
+  revision: A
+  by_id: ben-lidder
+  files: []
+  comment: Update
