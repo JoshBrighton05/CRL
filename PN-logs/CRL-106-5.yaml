@@ -34,3 +34,17 @@ history:
   files:
   - cad/CRL-106-5_A.SLDASM
   comment: Update
+- event: checked_out
+  by: Ben Lidder
+  at: '2026-11-19T18:37:00Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-106-5_A.SLDASM
+- event: checked_in
+  by: Ben Lidder
+  at: '2026-11-19T18:38:04Z'
+  revision: A
+  by_id: ben-lidder
+  files: []
+  comment: Update
