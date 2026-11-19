@@ -32,3 +32,18 @@ history:
   files:
   - cad/CRL-104-1_A.SLDPRT
   comment: Added the cad file
+- event: checked_out
+  by: Ethan Hughes
+  at: '2026-11-19T03:16:03Z'
+  revision: A
+  by_id: ethan-hughes
+  files:
+  - cad/CRL-104-1_A.SLDPRT
+- event: checked_in
+  by: Ethan Hughes
+  at: '2026-11-19T03:20:01Z'
+  revision: A
+  by_id: ethan-hughes
+  files:
+  - cad/CRL-104-1_A.SLDPRT
+  comment: fixed a chamfer angle
