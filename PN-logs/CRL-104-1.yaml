@@ -121,3 +121,17 @@ history:
   files:
   - cad/CRL-104-1_A.SLDPRT
   comment: Update
+- event: checked_out
+  by: Ben Lidder
+  at: '2026-11-24T14:34:41Z'
+  revision: A
+  by_id: ben-lidder
+  files:
+  - cad/CRL-104-1_A.SLDPRT
+- event: checked_in
+  by: Ben Lidder
+  at: '2026-11-24T14:36:30Z'
+  revision: A
+  by_id: ben-lidder
+  files: []
+  comment: Update
